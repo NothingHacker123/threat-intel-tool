@@ -38,3 +38,9 @@ Ye tool AlienVault OTX API ka use karke threat data fetch karta hai, analyze kar
 Ye tool chalane ke liye kuch Python packages ki zarurat hai. Ye packages `requirements.txt` file mein listed hain. Inhe install karne ke liye ye command run karein:
 ```bash
 pip install -r requirements.txt
+## Screenshots
+![Dashboard Screenshot 1](assets/Screenshot 2025-03-02 at 22-17-33 threat_dashboard.png)
+![Dashboard Screenshot 2](assets/Screenshot 2025-03-02 at 22-15-11 threat_dashboard.png)
+![Dashboard Screenshot 3](assets/Screenshot 2025-03-02 at 22-16-18 threat_dashboard.png)
+![Dashboard Screenshot 4](assets/Screenshot 2025-03-02 at 22-15-41 threat_dashboard.png)
+![Dashboard Screenshot 5](assets/Screenshot 2025-03-02 at 22-17-01 threat_dashboard.png)
