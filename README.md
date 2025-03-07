@@ -1,11 +1,11 @@
 # Threat Intelligence Tool 🛡️
 
 ## Overview
-Ye tool AlienVault OTX API ka use karke threat data fetch karta hai, analyze karta hai, aur ek interactive dashboard mein display karta hai.
+This tool uses the AlienVault OTX API to fetch threat data, analyze it, and display the results on an interactive dashboard..
 
 ## Features
-- Threat data fetch karna.
-- Data analyze karna aur threat scores assign karna.
+- Fetching threat data.
+- Analyzing data and assigning threat scores.
 - Interactive Streamlit dashboard.
 - Data export (CSV, JSON).
 - Machine learning predictions.
@@ -13,29 +13,30 @@ Ye tool AlienVault OTX API ka use karke threat data fetch karta hai, analyze kar
 ## Requirements 📋
 
 ### Software Requirements
-1. **Python 3.7+**: Ye tool Python 3.7 ya usse naye version par run hota hai.
-   - Check karne ke liye:
+1. **Python 3.7+**:  This tool runs on Python 3.7 or later versions..
+   -  To Check:
      ```bash
      python --version
      ```
-   - Agar Python installed nahi hai, toh [Python official website](https://www.python.org/downloads/) se download karein.
+   - If Python is not installed, download it from the [Python official website](https://www.python.org/downloads/) .
 
-2. **Git**: Repository ko clone karne ke liye Git installed hona chahiye.
-   - Check karne ke liye:
+2. **Git**: Git must be installed to clone the repository.
+
+    To check:
      ```bash
      git --version
      ```
-   - Agar Git installed nahi hai, toh [Git official website](https://git-scm.com/downloads) se download karein.
+   - If Git is not installed, download it from the [Git official website](https://git-scm.com/downloads) .
 
-3. **AlienVault OTX API Key**: Threat data fetch karne ke liye AlienVault OTX API key chahiye.
-   - API key generate karne ke liye [AlienVault OTX](https://otx.alienvault.com/api/) par sign up karein aur API key generate karein.
-   - API key ko `threat_intel_tool.py` file mein add karein:
+3. **AlienVault OTX API Key**: An AlienVault OTX API key is required to fetch threat data..
+   - To generate an API key, sign up on [AlienVault OTX](https://otx.alienvault.com/api/) and create your API key..
+   - Add the API key to the threat_intel_tool.py file:
      ```python
      API_KEY = 'your_api_key_here'
      ```
 
 ### Python Dependencies
-Ye tool chalane ke liye kuch Python packages ki zarurat hai. Ye packages `requirements.txt` file mein listed hain. Inhe install karne ke liye ye command run karein:
+This tool requires some Python packages to run, which are listed in the requirements.txt file. To install them, run this command:
 ```bash
 pip install -r requirements.txt
 
