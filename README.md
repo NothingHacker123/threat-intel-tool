@@ -48,9 +48,8 @@ python3 threat_dashboard.py
 Access the interactive dashboard in your browser to start exploring threat intelligence.
 
 📸 Preview
-![image](https://github.com/user-attachments/assets/0e5aa552-48fb-4331-8965-8f6eae0a85f7)
-![image](https://github.com/user-attachments/assets/b649b9ed-57b2-4e99-a737-8a0bc579e9f7)
-![image](https://github.com/user-attachments/assets/002244bb-1162-435d-af91-6c012f2cf95d)
+![Image Alt Text](/home/kali/Downloads)
+
 
 
 🛡️ Contributing
@@ -61,5 +60,5 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 
 If you have any questions or suggestions, reach out to me on Discord:
 
-NothingHacker123
+lucky03464
 
