@@ -48,7 +48,7 @@ python3 threat_dashboard.py
 Access the interactive dashboard in your browser to start exploring threat intelligence.
 
 📸 Preview
-![Alt text](https://github.com/user-attachments/assets/8bfd8b9a-82c9-4a61-bbff-d9615a296e5e)
+![Image](https://github.com/user-attachments/assets/3116c936-9f10-4df5-8000-8546528bb9d4)
 
 
 
