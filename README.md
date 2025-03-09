@@ -48,7 +48,7 @@ python3 threat_dashboard.py
 Access the interactive dashboard in your browser to start exploring threat intelligence.
 
 📸 Preview
-![Image](https://github.com/user-attachments/assets/3116c936-9f10-4df5-8000-8546528bb9d4)
+![image alt](https://github.com/NothingHacker123/threat-intel-tool/blob/aa05eb68540af00485fadd91a1997c5a99167095/WhatsApp%20Image%202025-03-07%20at%205.22.54%20PM.jpeg)
 
 
 
